@@ -38,6 +38,5 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 [7] Mariana [Product Owner]
 [8] Victor [Team]
 
-Teste Ariane de commit
 
 
