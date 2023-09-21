@@ -3,7 +3,6 @@
 
 # User-Standart
 Repositório destinado ao grupo User-Standart para desenvolvimento da API do primeiro semestre de ADS.
-TESTE DE COMMIT
 
 # 🎯Objetivo do Projeto
 Desenvolver um site que sirva como um curso indicando e ensinando todos os processos e arefatos da metodologia SCRUM. Status do projeto: Em andamento 🏇
@@ -38,3 +37,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 [6] Joniel [Team]
 [7] Mariana [Product Owner]
 [8] Victor [Team]
+
+Teste Ariane de commit
+
+
