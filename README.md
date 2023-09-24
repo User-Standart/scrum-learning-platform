@@ -20,15 +20,15 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 # Process Backlog 
 | Item | Definição | Sprint | Prioridade | Estimativa de Esforço | Status | Data de Entrega |
 | ---- | --------- | ------ | ---------- | --------------------- | ------ | --------------- |
-|WIREFRAME| “Eu como gerente quero alinhar minha equipe na aplicação do Scrum".| 1 | ALTA | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME| “Eu como Scrum Master quero facilitar e orientar a equipe no método Scrum".| 1 | ALTA | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME|“Eu como Scrum Master quero garantir reuniões rápidas e objetivas”.| 1 | ALTA | 04h | Em andamento | 9/24/2023|
-|WIREFRAME|“Eu como Product Owner quero praticar a priorização de tarefas”.| 1 | ALTA | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME|“Eu como Procuct Owner quero saber cobrar resultados de forma efetiva/assertiva”..| 1 | ALTA | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME|“Eu como Scrum Team quero avaliar de forma eficiente quais as tecnologias necessárias para a execução de um projeto”. | 1 | ALTA | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME| “Eu como Scrum Team quero avaliar de forma eficiente a quantidade de colaboradores necessários para a execução de um projeto dado um prazo estimado de realização”. .| 1 | ALTA | 04h | Em andamento | 9/24/2023|
-|WIREFRAME| “Eu como Scrum Team quero promover a auto-organização e soft skills, para integrar comunicação, proatividade, colaboração com objetivo de potencializar a entrega nas Sprints”.| 1 | ALTA | 04h | Em andamento | 9/24/2023 |
-|PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| 1 | ALTA | 05h | Em andamento | 9/24/2023 | 
+|PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| 1 | 100 | 05h | Em andamento | 9/24/2023 | 
+|WIREFRAME| “Eu como Egydio quero alinhar minha equipe na aplicação do Scrum".| 1 | 100 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME| “Eu como cleinete na função de Scrum Master quero facilitar e orientar a equipe no método Scrum".| 1 | 100 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME|“Eu como cliente na função de Product Owner quero praticar a priorização de tarefas”.| 1 | 100 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME| “Eu como cliente na função de Scrum Team quero promover a auto-organização e soft skills, para integrar comunicação, proatividade, colaboração com objetivo de potencializar a entrega nas Sprints”.| 1 | 100 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME|“Eu como cliente na função de Scrum Master quero garantir reuniões rápidas e objetivas”.| 1 | 95 | 04h | Em andamento | 9/24/2023|
+|WIREFRAME|“Eu como cliente na função de Procuct Owner quero saber cobrar resultados de forma efetiva/assertiva”..| 1 | 90 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME|“Eu como cliente na função de Scrum Team quero avaliar de forma eficiente quais as tecnologias necessárias para a execução de um projeto”. | 1 | 90 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME| “Eu como cliente na função de Scrum Team quero avaliar de forma eficiente a quantidade de colaboradores necessários para a execução de um projeto dado um prazo estimado de realização”. .| 1 | 85 | 04h | Em andamento | 9/24/2023|
 
 
 
