@@ -49,12 +49,9 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 
 
 
-# Sprint
-**Sprint 1** - [acesse aqui]
-**Sprint 2** - [acesse aqui]
-**Sprint 3** - [acesse aqui]
-**Sprint 4** - [acesse aqui]
+# Como utilizar o Protótipo ❔
 
+https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0f1-4f75-b967-f1476b8d8e42
 
 
 
