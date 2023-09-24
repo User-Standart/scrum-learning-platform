@@ -19,10 +19,10 @@ Para uma equipe que deseja aprender e aperfeiçoar seus conhecimentos em relaç�
 A metodologia utilizada para a criação do protótipo responsivo foi o **Figma**, para o product backlog e o process backlog foi utilizado os conhecimentos e ferramentas do **Product Owner** que serão documentadas abaixo. Para o produto final, serão utilizadas as linguagens de programação **Python, HTML e CSS**. E para organização da equipe e do processo, foi utilizado como metodologias ágeis o **Scrum**.
 
 # 🏆MVP
-1. WireFrame: **(**[Protótipo Navegável](https://encurtador.com.br/mnopM)**): Em andamento**✏️
+1. WireFrame: **(**[Protótipo Navegável](https://encurtador.com.br/mnopM)**): Concluído**✅
 
 
-# Process Backlog 
+# Sprint Backlog 
 | Item | Definição | Sprint | Prioridade | Estimativa de Esforço | Status | Data de Entrega |
 | ---- | --------- | ------ | ---------- | --------------------- | ------ | --------------- |
 |PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| 1 | 100 | 05h | Em andamento | 9/24/2023 | 
@@ -35,6 +35,16 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 |WIREFRAME|“Eu, como cliente na função de Scrum Team, quero avaliar de forma eficiente, quais as tecnologias necessárias para a execução de um projeto”. | 1 | 90 | 04h | Em andamento | 9/24/2023 |
 |WIREFRAME| “Eu, como cliente na função de Scrum Team, quero avaliar de forma eficiente a quantidade de colaboradores necessários, para a execução de um projeto dado um prazo estimado de realização”. .| 1 | 85 | 04h | Em andamento | 9/24/2023|
 
+# Product Backlog
+| Item | Prioridade | ID | Descrição | Sprint |
+| ---- | ---------- |----| --------- | ------ |
+|Wireframe|100|#01|Protótipo WEB contendo uma prévia de todas as páginas do sistema.|**Sprint 1**|
+|Backlog|100|#02|Calendário de entregas de acordo com os desejos e requisitos do cliente.|**Sprint 1**|
+|Criação do Site Inicial|95|#03|Site em HTML leal à proposta do wireframe, de forma suscinta.|**Sprint 2**|
+|Criação do formulário|90|#04|Formulário para avaliações parciais e finais.|**Sprint 3**|
+|Polimento|80|#05|Refinamento de código e adição de recursos responsivos.|**Sprint 3**|
+|Teste|100|#06|Teste do produto com intuito de encontrar e corrigir erros e bugs.|**Sprint 4**|
+|README|80|#07|Documentação do projeto.|**Sprint 4**|
 
 
 
