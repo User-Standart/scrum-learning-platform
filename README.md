@@ -10,7 +10,7 @@
 Repositório destinado ao grupo User-Standart para desenvolvimento da API do primeiro semestre de ADS.
 
 # 🎯Objetivo do Projeto
-Desenvolver um site que sirva como um curso indicando e ensinando todos os processos e arefatos da metodologia SCRUM. Status do projeto: Em andamento 🏇
+Desenvolver um site que sirva como um curso indicando e ensinando todos os processos e artefatos da metodologia SCRUM. Status do projeto: Em andamento 🏇
 
 # 💡Visão do Sistema
 Para uma equipe que deseja aprender e aperfeiçoar seus conhecimentos em relação às metodologias ágeis utilizando o Scrum.
