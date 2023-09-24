@@ -2,9 +2,9 @@
 <p align="center">
       <img src="Dados/Capa-API.png" alt="logo da DATA-SARS">
 
-
+<p align="center">
 <a href ="#objetivo-do-projeto">  Objetivo do Projeto </a>  |   <a href ="#mvp"> MVP </a>  |  <a href ="#process-backlog"> Process Backlog </a>  | <a href ="#colaboradores"> Colaboradores </a> 
-
+</p>
 
 # User-Standart
 Repositório destinado ao grupo User-Standart para desenvolvimento da API do primeiro semestre de ADS.
