@@ -71,7 +71,7 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0
 
 
 # Colaboradores:
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/caio-osorio-a67224200)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CaioOsorio) 
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/caio-osorio-a67224200/)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CaioOsorio) 
 ![Gif - Caio](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/c718d4aa-01dd-420a-97b3-fa0d8118843d) 
 
 
