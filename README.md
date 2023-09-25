@@ -1,3 +1,5 @@
+
+
 # **User-Standart**
 <p align="center">
       <img src="Dados/Capa-API.png" alt="logo da DATA-SARS">
@@ -19,6 +21,9 @@ Para uma equipe que deseja aprender e aperfeiçoar seus conhecimentos em relaç�
 A metodologia utilizada para a criação do protótipo responsivo foi o **Figma**, para o product backlog e o process backlog foi utilizado os conhecimentos e ferramentas do **Product Owner** que serão documentadas abaixo. Para o produto final, serão utilizadas as linguagens de programação **Python, HTML e CSS**. E para organização da equipe e do processo, foi utilizado como metodologias ágeis o **Scrum**.
 
 # 🏆MVP
+
+![mvp](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/b389df42-4404-4f09-b09d-ce0adb231114)
+
 1. WireFrame: **(**[Protótipo Navegável](https://encurtador.com.br/mnopM)**): Concluído**✅
 
 
@@ -64,11 +69,12 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0
 
 <a href=" https://www.linkedin.com/in/mariana-rebelo-tebecherani-3207a4214"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="[https://github.com/CaioOsorio](https://github.com/Marianatebecherani)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
 ![Mariana - Gif](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/3977ea80-ad2c-45bb-9940-f8f6872c8f80)
-
+<br>
 
 
 <a href="(https://github.com/ArianeMVieira)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
-![ariane vieira](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/79382155-b439-4512-b3aa-1fe37c5eec07)
+![ariane vieira](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/53c96547-d4ca-49d4-8601-edf181420c52)
+
 
 
 <a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
