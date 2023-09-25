@@ -1,10 +1,20 @@
 # **User-Standart**
 <p align="center">
-      <img src="Dados/Capa-API.png" alt="logo da DATA-SARS">
+      <img src="Dados/Capa-API.png" alt="Capa-API">
 
 <p align="center">
-<a href ="#objetivo-do-projeto">  Objetivo do Projeto </a>  |<a href ="#Visão do Sistema">  Visão do Sistema </a>  |  <a href ="#Metodologia"> Metodologia </a>  | <a href ="MVP">  MVP </a>  | <a href ="#Sprint Backlog"> Sprint Backlog </a>  | <a href ="#Product Backlog"> Product Backlog</a>   | <a href ="Como utilizar o Protótipo">  Como utilizar o Protótipo </a>   | <a href ="Colaboradores">  Colaboradores </a> 
+    <a href="#objetivo"> Objetivo do Projeto </a> | 
+    <a href="#visao"> Visão do Sistema </a> |
+    <a href="#metodologia"> Metodologia </a> |  
+    <a href="#mvp"> MVP </a> | 
+    <a href="#sprint-backlog"> Sprint Backlog </a> | 
+    <a href="#product-backlog"> Product Backlog </a> | 
+    <a href="#prototipo"> Como utilizar o Protótipo </a> | 
+    <a href="#colaboradores"> Colaboradores </a> | 
 </p>
+</p>
+
+
 
 # User-Standart
 Repositório destinado ao grupo User-Standart, para desenvolvimento da API do primeiro semestre de ADS.
