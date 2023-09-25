@@ -74,11 +74,11 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0
 
 <a href="(https://github.com/ArianeMVieira)"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
 ![ariane vieira](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/53c96547-d4ca-49d4-8601-edf181420c52)
+<br>
 
 
+![Diego Castro](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/6f185de6-a6d4-48a6-b49c-3740fe013f1f)
 
-<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href=""><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
-![Diego Castro](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/6a9aee75-8cfc-4aaf-ab81-e9a6a11d4e3d)
 
 
 <a href="https://www.linkedin.com/in/f%C3%A1bio-hiroshi-5393a51a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://github.com/FabioHiros"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
