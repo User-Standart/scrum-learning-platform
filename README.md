@@ -71,19 +71,19 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0
 
 
 # Colaboradores:
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/caio-osorio-a67224200/)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CaioOsorio) 
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/caio-osorio-a67224200/)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CaioOsorio) <br>
 ![Gif - Caio](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/c718d4aa-01dd-420a-97b3-fa0d8118843d) 
 
 
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mariana-rebelo-tebecherani-3207a4214)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Marianatebecherani) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/mariana-rebelo-tebecherani-3207a4214)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Marianatebecherani) <br>
 ![Mariana - Gif](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/3977ea80-ad2c-45bb-9940-f8f6872c8f80)
 <br>
 
 
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ArianeMVieira) 
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ArianeMVieira) <br>
 ![ariane vieira](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/53c96547-d4ca-49d4-8601-edf181420c52)
-<br>
 
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/diegocastro91)[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Diegocastro5) 
 
 ![Diego Castro](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/6f185de6-a6d4-48a6-b49c-3740fe013f1f)
 
