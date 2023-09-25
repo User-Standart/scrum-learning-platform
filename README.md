@@ -83,8 +83,7 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/ArianeMVieira) <br>
 ![ariane vieira](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/53c96547-d4ca-49d4-8601-edf181420c52)
 
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/diegocastro91)[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Diegocastro5) 
-
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](www.linkedin.com/in/diegocastro91)[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Diegocastro5) <br>
 ![Diego Castro](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/6f185de6-a6d4-48a6-b49c-3740fe013f1f)
 
 
