@@ -39,25 +39,25 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 | Item | Definição | Sprint | Prioridade | Estimativa de Esforço | Status | Data de Entrega |
 | ---- | --------- | ------ | ---------- | --------------------- | ------ | --------------- |
 |PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| 1 | 100 | 05h | Em andamento | 9/24/2023 | 
-|WIREFRAME| “Eu, como Egydio, quero alinhar minha equipe na aplicação do Scrum".| 1 | 100 | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME| “Eu, como cliente na função de Scrum Master, quero facilitar e orientar a equipe no método Scrum".| 1 | 100 | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME|“Eu, como cliente na função de Product Owner, quero praticar a priorização de tarefas”.| 1 | 100 | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME| “Eu, como cliente na função de Scrum Team, quero promover a auto-organização e soft skills, para integrar comunicação, proatividade, colaboração com objetivo de potencializar a entrega nas Sprints”.| 1 | 100 | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME|“Eu, como cliente na função de Scrum Master, quero garantir reuniões rápidas e objetivas”.| 1 | 95 | 04h | Em andamento | 9/24/2023|
-|WIREFRAME|“Eu, como cliente na função de Procuct Owner, quero saber cobrar resultados de forma efetiva/assertiva”..| 1 | 90 | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME|“Eu, como cliente na função de Scrum Team, quero avaliar de forma eficiente, quais as tecnologias necessárias para a execução de um projeto”. | 1 | 90 | 04h | Em andamento | 9/24/2023 |
-|WIREFRAME| “Eu, como cliente na função de Scrum Team, quero avaliar de forma eficiente a quantidade de colaboradores necessários, para a execução de um projeto dado um prazo estimado de realização”. .| 1 | 85 | 04h | Em andamento | 9/24/2023|
+|WIREFRAME| “Eu, como Egydio, quero alinhar minha equipe na aplicação do Scrum".| 1 | 95 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME| “Eu, como cliente na função de Scrum Master, quero facilitar e orientar a equipe no método Scrum".| 1 | 90 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME|“Eu, como cliente na função de Product Owner, quero praticar a priorização de tarefas”.| 1 | 85 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME| “Eu, como cliente na função de Scrum Team, quero promover a auto-organização e soft skills, para integrar comunicação, proatividade, colaboração com objetivo de potencializar a entrega nas Sprints”.| 1 | 80 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME|“Eu, como cliente na função de Scrum Master, quero garantir reuniões rápidas e objetivas”.| 1 | 75 | 04h | Em andamento | 9/24/2023|
+|WIREFRAME|“Eu, como cliente na função de Procuct Owner, quero saber cobrar resultados de forma efetiva/assertiva”..| 1 | 70 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME|“Eu, como cliente na função de Scrum Team, quero avaliar de forma eficiente, quais as tecnologias necessárias para a execução de um projeto”. | 1 | 65 | 04h | Em andamento | 9/24/2023 |
+|WIREFRAME| “Eu, como cliente na função de Scrum Team, quero avaliar de forma eficiente a quantidade de colaboradores necessários, para a execução de um projeto dado um prazo estimado de realização”. .| 1 | 60 | 04h | Em andamento | 9/24/2023|
 
 # Product Backlog
 | Item | Prioridade | ID | Descrição | Sprint |
 | ---- | ---------- |----| --------- | ------ |
-|Wireframe|100|#01|Protótipo WEB contendo uma prévia de todas as páginas do sistema.|**Sprint 1**|
 |Backlog|100|#02|Calendário de entregas de acordo com os desejos e requisitos do cliente.|**Sprint 1**|
-|Criação do Site Inicial|95|#03|Site em HTML leal à proposta do wireframe, de forma suscinta.|**Sprint 2**|
-|Criação do formulário|90|#04|Formulário para avaliações parciais e finais.|**Sprint 3**|
+|Wireframe|95|#01|Protótipo WEB contendo uma prévia de todas as páginas do sistema.|**Sprint 1**|
+|Criação do Site Inicial|90|#03|Site em HTML leal à proposta do wireframe, de forma suscinta.|**Sprint 2**|
+|Criação do formulário|85|#04|Formulário para avaliações parciais e finais.|**Sprint 3**|
 |Polimento|80|#05|Refinamento de código e adição de recursos responsivos.|**Sprint 3**|
-|Teste|100|#06|Teste do produto com intuito de encontrar e corrigir erros e bugs.|**Sprint 4**|
-|README|80|#07|Documentação do projeto.|**Sprint 4**|
+|Teste|75|#06|Teste do produto com intuito de encontrar e corrigir erros e bugs.|**Sprint 4**|
+|README|70|#07|Documentação do projeto.|**Sprint 4**|
 
 
 
