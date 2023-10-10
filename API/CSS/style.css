@@ -7,6 +7,18 @@
     
 }
 
+/* Barra vermelha em cima do texto */
+.barra{
+  width: 980px;
+  height: 39px;
+  background-color: #9C0707;
+  text-align: center;
+  border-radius: 15px;
+  font-family: 'Inter', sans-serif;
+  color: #f1f1f1;
+  font-size: 30px;
+}
+
 
 /* container do cabeçalho */
 .container--header{
@@ -101,7 +113,7 @@ a{
     display: grid;
     grid-template-columns: 1400px;
     place-items: center;
-    border: #07369c solid 2px;
+    /* border: #07369c solid 2px; */
     gap: 30px;
     
 }
@@ -114,6 +126,7 @@ a{
     text-align: left;
     border: peru solid 2px;
     max-width: 60%;
+    place-items: center;
     
 }
 
@@ -136,7 +149,16 @@ a{
     
 }
 
+.txtatividade{
+  display: grid;
+  margin: 0 auto;
+  text-align: justify;
+  place-items: center;
+  border: #079c57 solid 2px;
+  max-width: 80%;
+  font-size: 20px;
 
+}
 
 
 
