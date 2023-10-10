@@ -36,7 +36,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 
 
 # Sprint Backlog 
-| Item | Definição | Sprint | Prioridade | Estimativa de Esforço | Status | Data de Entrega |
+| Item | US | Sprint | Prioridade | Estimativa de Esforço | Status | Data de Entrega |
 | ---- | --------- | ------ | ---------- | --------------------- | ------ | --------------- |
 |PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| 1 | 100 | 05h | Em andamento | 9/24/2023 | 
 |WIREFRAME| “Eu, como Egydio, quero alinhar minha equipe na aplicação do Scrum".| 1 | 95 | 04h | Em andamento | 9/24/2023 |
@@ -49,7 +49,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 |WIREFRAME| “Eu, como cliente na função de Scrum Team, quero avaliar de forma eficiente a quantidade de colaboradores necessários, para a execução de um projeto dado um prazo estimado de realização”. .| 1 | 60 | 04h | Em andamento | 9/24/2023|
 
 # Product Backlog
-| Item | Prioridade | ID | Descrição | Sprint |
+| Item | Prioridade | ID | US | Sprint |
 | ---- | ---------- |----| --------- | ------ |
 |Backlog|100|#02|Calendário de entregas de acordo com os desejos e requisitos do cliente.|**Sprint 1**|
 |Wireframe|95|#01|Protótipo WEB contendo uma prévia de todas as páginas do sistema.|**Sprint 1**|
