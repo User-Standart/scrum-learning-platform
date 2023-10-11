@@ -60,15 +60,20 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 
 
 # Product Backlog
-| Item | Prioridade | ID | US | Sprint |
-| ---- | ---------- |----| --------- | ------ |
-|Backlog|100|#02|Calendário de entregas de acordo com os desejos e requisitos do cliente.|**Sprint 1**|
-|Wireframe|95|#01|Protótipo WEB contendo uma prévia de todas as páginas do sistema.|**Sprint 1**|
-|Criação do Site Inicial|90|#03|Site em HTML leal à proposta do wireframe, de forma suscinta.|**Sprint 2**|
-|Criação do formulário|85|#04|Formulário para avaliações parciais e finais.|**Sprint 3**|
-|Polimento|80|#05|Refinamento de código e adição de recursos responsivos.|**Sprint 3**|
-|Teste|75|#06|Teste do produto com intuito de encontrar e corrigir erros e bugs.|**Sprint 4**|
-|README|70|#07|Documentação do projeto.|**Sprint 4**|
+| Item | Prioridade | ID | Descrição | Sprint|
+| ---- | ---------- | -- | --------- | ----- |
+| Wireframe | 100 |#1| Protótipo WEB contendo uma prévia de todas as páginas do sistema. | **1** |
+| Backlog | 100 |#2| Calendário de entregas de acordo com os desejos e requisitos do cliente. | **1** |
+| Criação do Site Inicial - html | 95 |#3|Site inicial em HTML leal à proposta do wireframe, de forma suscinta. | **2**|
+|Criação do Site Inicial - css | 90 |#4| Estilização da página com CSS e padronização das páginas, leal à proposta do wireframe, de forma suscinta. | **2**|
+| Criação do Site Inicial - Flask | 100 |#5| --------- | **3** |
+|Criação do formulário | 90 |#6|Formulário para avaliações parciais e finais. | **3** |
+|Polimento | 80 |#7| Refinamento de código e adição de recursos responsivos. | **3** |
+|Teste | 100 |#8| Teste do produto com intuito de encontrar e corrigir erros e bugs. | **4** |
+|README |80|9| Documentação do projeto. | **4** |
+
+
+
 
 
 
