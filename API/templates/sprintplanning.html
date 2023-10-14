@@ -1,0 +1,45 @@
+{% extends 'base.html' %}
+
+{% block title %}Sprint Planning{% endblock %}
+
+{% block content %}
+
+<!--Barra vermelha que fica em cima do texto-->
+<div class="barra">O que é Sprint Planning?</div>
+
+<div class="container--txthome">
+    <p>
+        O sprint planning é um evento do scrum que consiste no planejamento de como será feita a proxima sprint baseado
+        nas coisas discutidas no Product Backlog. Ele tem como meta alinhar o Scrum Team com a visão do Product Owner,
+        determinando um tempo para que sejam feitas tarefas definidas pelo Backlog. Essas são reuniões curtas de no
+        máximo duas horas por semana, em que são discutidos 2 pontos principais:
+    </p>
+    <ul>
+        <li>O que fazer: O PO traçará as metas a serem cumpridas criando o Sprint Backlog, que se resume em tarefas do
+            backlog que devem ser feitas nesta sprint.</li>
+        <li>Como fazer: O Scrum Team planeja como serão realizadas essas tarefas e qual será o resultado esperado delas,
+            além do possivel tempo que será gasto em cada tarefa. Lembre-se o tempo no scrum é sempre relativo, as
+            estivativas não são e não tem que ser precisas, mantenha a comunicação ativa e altere caso necessário.</li>
+    </ul>
+</div>
+
+<!--Barra vermelha que fica em cima do texto-->
+<div class="barra">Práticas para manter o Sprint Planning eficiente:</div>
+
+<div class="container--txthome">
+    <ol>
+        <li>Planejar com antecedencia demais gera disperdicio, 30% de um projeto é alterado até o final de seu
+            desenvolvimento, talvez algo pensado muito para o futuro tenha que ser mudado, planeje apenas o necessário
+            para esta sprint.</li>
+        <li>Mantenha o processo colaborativo, evitando que apenas uma pessoa tome decisões sobre o projeto e suas
+            tecnicalidades, assim evitando que sejam criadas tarefas impossíveis ou ,do lado oposto, tarefas
+            desnecessárias.</li>
+        <li>Uma maneira fácil de visualizar a meta da Sprint é por meio das "histórias de usuario", uma tecnica em que o
+            time se coloca na posição de um usuário comum de seu produto, deixando claro o resultado que se busca. Por
+            exemplo, "Eu como (usuário X), quero uma (função Y) por (motivo Z). Assim podendo medir o progesso do time
+            com clareza com base nos problemas estabelecidos, esta clareza mantem a equipe focada e facilita o
+            desenvolvimento do projeto, já que o objetivo se torna mais palpavel e transparente.</li>
+    </ol>
+</div>
+
+{% endblock %}

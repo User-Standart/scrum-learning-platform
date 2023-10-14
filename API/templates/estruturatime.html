@@ -1,0 +1,59 @@
+{% extends 'base.html' %}
+
+{% block title %}Estrutura do Time{% endblock %}
+
+{% block content %}
+
+    <!--Barra vermelha que fica em cima do texto-->
+    <div class="barra">Como o time é estruturado?</div>
+
+    <article class="container-txt-scroll">
+
+        <h1 class="title-content-l1">Product Owner</h1>
+        <ul>
+            <!-- Conteúdo: Capriola 15 -->
+            <li>Responsável por cuidar do Product Backlog;</li>
+            <li>Analisar onde o time precisa chegar para atingir o objetivo do cliente;</li>
+            <li>Priorizar os requisitos, por ordem de prioridades e necessidades, para gerar o maior valor, no menor
+                tempo possível, e com maior retorno com relação ao investimento;</li>
+            <li>Apresentar os requisitos para o Scrum Team;</li>
+            <li>Após a realização da Sprint Retrospctive, analisar e refinar o Product Backlog, para a próxima Sprint.
+            </li>
+        </ul>
+
+        <h1 class="title-content-l1">Scrum Master</h1>
+        <ul>
+            <li>Ajudar o Product Owner e os Scrum Team, na execução do projeto, através de técnicas que ajudam a
+                facilitar a entrega do projeto;</li>
+            <li>Necessita possuir completo domínio sob o Scrum e como aplica-lo;</li>
+            <li>Acompanhamento e Métricas: O Scrum Master auxilia a equipe na definição e acompanhamento de métricas
+                relevantes para medir o progresso e a qualidade do trabalho;</li>
+            <li>Promoção da Transparência: Ele promove a transparência em todas as atividades do Scrum, ajudando a
+                equipe a comunicar seu progresso e desafios de forma clara para os stakeholders;</li>
+            <li>Remoção de Obstáculos: Uma das responsabilidades mais importantes é remover obstáculos que possam
+                impedir o progresso da equipe. Isso pode envolver a resolução de problemas ou a busca de ajuda de partes
+                externas;</li>
+            <li>Facilitador: O Scrum Master atua como um facilitador, garantindo que as cerimônias do Scrum, como a
+                Reunião de Planejamento da Sprint e a Reunião Diária, ocorram de forma eficaz, mantendo o foco e a
+                colaboração da equipe.</li>
+        </ul>
+
+        <h1 class="title-content-l1">Scrum Team</h1>
+        <ul>
+            <li>Após a apresentação dos requisitos feitos pelo Product Owner, o Scrum Team realiza um debate entre eles
+                para chegar em um consenso sobre o que é possível ser realizado na próxima sprint;</li>
+            <li>Depois da Sprint Planning, inicia-se o desenvolvimento da sprint, onde o time trabalhará em colaboração
+                com Product Owner e o Scrum Master no desenvolvimento das funcionalidades na construção do produto;</li>
+            <li>Ao longo da sprint, a cada 24 horas, é realizada uma daily scrum, para garantir que está fluindo o
+                desenvolvimento do produto, e se alguém precisa de ajuda;</li>
+            <li>Perguntas que ajudam na daily scrum: “O que foi feito ontem?” , “O que será feito hoje?”
+                e Tem algo me impedindo de seguir em frente?”;</li>
+            <li>Caso exista algum impedimento, o time deverá acionar o Product Owner, ou o Scrum Master, para ajudar no
+                esclarecimento do possível impedimento;</li>
+            <li>Após a primeira sprint, entregar o MVP;</li>
+            <li>Ao término de cada sprint realizar a Sprint Review;</li>
+            <li>Depois da Sprint Review, realizar Sprint Planning.</li>
+        </ul>
+    </article>
+
+{% endblock %}

@@ -1,0 +1,267 @@
+/* centraliza a página em um container */
+body{
+  display: flex;
+  flex-direction: column;
+  background-color: #EEEEEE;
+  min-height: 100vh;
+  max-width: 1400px;
+  margin: 0 auto;
+  /* border: red solid 2px; */
+}
+
+main{
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+  padding-top: 20px;
+  gap: 30px;
+  max-width: 1400px;
+  align-items: center;
+  align-content: center;
+  /* border: red solid 2px; */
+}
+
+footer{
+  width: 100%;
+  height: 40px;
+  background-color: #9C0707;
+  margin-top: auto;   
+}
+
+/* Barra vermelha em cima do texto */
+.barra{
+  width: 1068px;
+  height: 39px;
+  line-height: 39px;
+  background-color: #9C0707;
+  border-radius: 15px;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  text-align: center;
+  font-size: 28px;
+  color: #f1f1f1;
+}
+
+.container--nav{
+  display: flex;
+  background-color: #9C0707;
+  /* border: 2px black solid;  */
+  justify-content: space-between;
+}
+
+/* estilizando o logo */
+
+.logo--exposed{
+  padding-top: 25px;
+  font-family: carattere;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 120px;
+  line-height:85px;
+  color: #FDFDFB;
+  /* -webkit-text-stroke: 2px black; */
+  /* border: solid blue; */
+}
+
+.logo--hidden{
+  padding-top: 25px;
+  font-family: carattere;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 120px;
+  line-height:85px;
+  color: #9C0707;
+  /* -webkit-text-stroke: 2px black; */
+  /* border: solid blue; */
+}
+
+
+.nav--item{
+  margin-top: auto;
+}
+
+
+/* estilizando os links */
+a{
+  color: white;
+  font-size: 25px;
+  text-decoration: none;
+}
+
+/* ------------------------------ */
+/*         Menu-dropdown          */
+/* ------------------------------ */
+
+/* estilização do botão */
+.dropbtn{
+  color: white;
+  font-size: 25px;
+  cursor: pointer;
+}
+  
+/* classe do botão */
+.dropdown{
+  margin-top: auto;
+  /* display: inline-block; */
+}
+  
+/* Lista do menu */
+.dropdown-content{
+  display: none;
+  position: absolute;
+  left: 900px;
+  background-color: #f9f9f9;
+  min-width: 200px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+  
+/* Links dentro do menu dropdown */
+.dropdown-content a{
+  color: black;
+  padding: 12px 0px;
+  text-decoration: none;
+  display: block;
+  font-size: 20px;
+  text-align: center;
+}
+  
+/* Muda a cor dos links quando passa o mouse em cima  */
+.dropdown-content a:hover{
+  background-color: #f1f1f1;
+}
+  
+/* mostra o menu quando passa o mouse  */
+.dropdown:hover .dropdown-content{
+  display: block;
+}
+  
+
+/* container do texto na home */
+.container--txthome{
+  margin: 0 auto;
+  /* grid-template-columns:1400px ; */
+  /* border: peru solid 2px; */
+  max-width: 60%;
+  /* place-items: center; */
+}
+
+.container--txthome h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bolder;
+  text-align: left;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+}
+
+.container--txthome p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: normal;
+  text-align: justify;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+  margin: 0;
+}
+
+.container--txthome ol{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: normal;
+  text-align: justify;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+  margin: 0;
+}
+
+ol li{
+  margin-top: 10px;
+}
+
+.container--txthome ul{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: normal;
+  text-align: justify;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+  margin: 0;
+}
+
+ul li{
+  margin-top: 10px;
+}
+
+
+.container-txt-scroll{
+  overflow-y: auto;
+  max-height: 400px;
+  margin: 0 15%
+}
+
+.container-txt-scroll h1{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: x-large;
+  font-style: normal;
+  font-weight: bolder;
+  text-align: left;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+}
+
+.container-txt-scroll p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: normal;
+  text-align: justify;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+  margin: 0;
+}
+
+.container-txt-scroll ol{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: normal;
+  text-align: justify;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+  margin: 0;
+}
+
+.container-txt-scroll ul{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: medium;
+  font-style: normal;
+  font-weight: normal;
+  text-align: justify;
+  line-height: 1.5;
+  text-indent: 0;
+  color: black;
+  margin: 0;
+}
+
+.txtatividade{
+  display: grid;
+  margin: 0 auto;
+  text-align: justify;
+  place-items: center;
+  /* border: #079c57 solid 2px; */
+  max-width: 80%;
+  font-size: 20px;
+
+}
