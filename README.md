@@ -83,7 +83,9 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0f1-4f75-b967-f1476b8d8e42
 
 
+# Vídeo de demonstração – VMP – Sprint 2:
 
+https://github.com/Marianatebecherani/api-2sem-2023/assets/143021491/5238463d-8f71-49ba-8a52-c588f8c2dca6
 
 
 # Colaboradores:
