@@ -46,11 +46,11 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 |WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de uma equipe Scrum". | **1** |#2 | 75 | 04h | **Concluído**✅ | 9/24/2023|
 |WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Product Owner". | **1** | #2 | 70 | 04h | **Concluído**✅ | 9/24/2023 |
 |WIREFRAME| "Eu como desenvolvedor quero, criar uma página wireframe de acordo com as necessidades do cliete para melhor aplicação do método Scrum em sua empresa". | **1** | #2 | 65 | 04h | **Concluído**✅ | 9/24/2023 |
-|SITE INICIAL - html |“Eu como desenvolvedor quero alinhar minha equipe na aplicação do Scrum". | **2** | #3 | 100 | 04h | **Em andamento** | 15/10/2023 |
-|SITE INICIAL - html | "Eu como cliente quero, no site inicial, ter acesso ao conteúdo sobre o método ágil Scrum para aplicá-lo de forma padronizada com a minha equipe". | **2**  | #3 | 95 | 04h | **Em andamento** | 15/10/2023 |
-|SITE INICIAL - html| "Eu como desenvolvedor quero, com html, criar as páginas do site de acordo com o prótotipo aprovado pelo cliente". | **2**  | #3 | 90 | 04h | **Em andamento** |15/10/2023 |
-|SITE INICIAL - css| "Eu como desenvolvedor quero, com css, estilizar as páginas do site para melhorar o desing". | **2**  | #4 | 85 | 04h |  **Em andamento** | 15/10/2023 |
-|SITE INICIAL - Flask | "Eu como desenvolvedor quero, com Flask, linkar as páginas do site para melhorar a responsividade do programa e padronizar cabeçalho e rodapé". | **2**  | #5 | 80 | 04h |  **Em andamento** | 15/10/2023 |
+|SITE INICIAL - html |“Eu como desenvolvedor quero alinhar minha equipe na aplicação do Scrum". | **2** | #3 | 100 | 04h | **Concluído**✅ | 15/10/2023 |
+|SITE INICIAL - html | "Eu como cliente quero, no site inicial, ter acesso ao conteúdo sobre o método ágil Scrum para aplicá-lo de forma padronizada com a minha equipe". | **2**  | #3 | 95 | 04h | **Concluído**✅ | 15/10/2023 |
+|SITE INICIAL - html| "Eu como desenvolvedor quero, com html, criar as páginas do site de acordo com o prótotipo aprovado pelo cliente". | **2**  | #3 | 90 | 04h | **Concluído**✅ |15/10/2023 |
+|SITE INICIAL - css| "Eu como desenvolvedor quero, com css, estilizar as páginas do site para melhorar o desing". | **2**  | #4 | 85 | 04h |  **Concluído**✅ | 15/10/2023 |
+|SITE INICIAL - Flask | "Eu como desenvolvedor quero, com Flask, linkar as páginas do site para melhorar a responsividade do programa e padronizar cabeçalho e rodapé". | **2**  | #5 | 80 | 04h | **Concluído**✅ | 15/10/2023 |
 
 
 
