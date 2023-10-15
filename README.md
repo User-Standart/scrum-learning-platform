@@ -9,7 +9,7 @@
     <a href="#mvp"> MVP </a> | 
     <a href="#sprint-backlog"> Sprint Backlog </a> | 
     <a href="#product-backlog"> Product Backlog </a> | 
-    <a href="#prototipo"> Como utilizar o Protótipo </a> | 
+    <a href="#prototipo"> Como utilizar o Protótipo ? </a> | 
     <a href="#colaboradores"> Colaboradores </a> | 
 </p>
 </p>
