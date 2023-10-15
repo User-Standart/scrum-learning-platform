@@ -36,7 +36,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 
 
 # Sprint Backlog 
-| Item | Definição | Sprint | ID | Prioridade | Estimativa de Esforço | Data de Entrega | Status |
+| Item | Definição | Sprint | ID | Prioridade | Estimativa de Esforço | Status | Data de Entrega |
 | ---- | --------- | ------ | ---| ---------- | --------------------- | ------ | --------------- |
 |PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| **1** | #1 | 100 | 05h | **Concluído**✅  | 9/24/2023 | 
 |WIREFRAME| “Eu como cliente quero, na página wireframe, encontrar aplicações do Scrum para alinhar minha equipe para que seja auto-organizável, comunicativa, colaborativa e adaptável". | **1** | #2 | 95 | 04h | **Concluído**✅| 9/24/2023 |
@@ -47,14 +47,11 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 |WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Product Owner". | **1** | #2 | 70 | 04h | **Concluído**✅ | 9/24/2023 |
 |WIREFRAME| "Eu como desenvolvedor quero, criar uma página wireframe de acordo com as necessidades do cliete para melhor aplicação do método Scrum em sua empresa". | **1** | #2 | 65 | 04h | **Concluído**✅ | 9/24/2023 |
 |SITE INICIAL - html |“Eu como desenvolvedor quero alinhar minha equipe na aplicação do Scrum". | **2** | #3 | 100 | 04h | **Em andamento** | 15/10/2023 |
-|SITE INICIAL|“Eu como Scrum Master quero facilitar e orientar a equipe no método Scrum". | **2**  | #3 | 95 | 04h | **Em andamento** | 15/10/2023 |
-|SITE INICIAL|“Eu como Scrum Master quero garantir reuniões rápidas e objetivas”. | **2**  | #3 | 90 | 04h | **Em andamento** |15/10/2023 |
-|SITE INICIAL|“Eu como Product Owner quero passar a visão do produto para a equipe de desenvolvimento”.| **2**  | #3 | 85 | 04h |  **Em andamento** | 15/10/2023 |
-|SITE INICIAL|“Eu como Product Owner quero praticar a priorização de tarefas”. | **2**  | #3 | 80 | 04h |  **Em andamento** | 15/10/2023 |
-|SITE INICIAL|“Eu como Procuct Owner quero saber cobrar resultados de forma efetiva/assertiva”.| **2**  | #3 | 75 | 04h |  **Em andamento** | 15/10/2023 |
-|SITE INICIAL|“Eu como Scrum Team quero avaliar de forma eficiente quais as tecnologias necessárias para a execução de um projeto”.  | **2**  | #3 | 75 | 04h |  **Em andamento** | 15/10/2023 |
-|SITE INICIAL|“Eu como Scrum Team quero avaliar de forma eficiente a quantidade de colaboradores necessários para a execução de um projeto dado um prazo estimado de realização”.  | **2**  | #3 | 65 | 04h | **Em andamento** | 15/10/2023 |
-|SITE INICIAL|“Eu como Scrum Team quero promover a auto-organização e soft skills, para integrar comunicação, proatividade, colaboração com objetivo de potencializar a entrega nas Sprints”.  | **2** | #3 | 60 | 04h |  **Em andamento** | 15/10/2023 |
+|SITE INICIAL - html | "Eu como cliente quero, no site inicial, ter acesso ao conteúdo sobre o método ágil Scrum para aplicá-lo de forma padronizada com a minha equipe". | **2**  | #3 | 95 | 04h | **Em andamento** | 15/10/2023 |
+|SITE INICIAL - html| "Eu como desenvolvedor quero, com html, criar as páginas do site de acordo com o prótotipo aprovado pelo cliente". | **2**  | #3 | 90 | 04h | **Em andamento** |15/10/2023 |
+|SITE INICIAL - css| "Eu como desenvolvedor quero, com css, estilizar as páginas do site para melhorar o desing". | **2**  | #4 | 85 | 04h |  **Em andamento** | 15/10/2023 |
+|SITE INICIAL - Flask | "Eu como desenvolvedor quero, com Flask, linkar as páginas do site para melhorar a responsividade do programa e padronizar cabeçalho e rodapé". | **2**  | #5 | 80 | 04h |  **Em andamento** | 15/10/2023 |
+
 
 
 # Product Backlog
