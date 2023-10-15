@@ -38,17 +38,15 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 # Sprint Backlog 
 | Item | Definição | Sprint | ID | Prioridade | Estimativa de Esforço | Data de Entrega | Status |
 | ---- | --------- | ------ | ---| ---------- | --------------------- | ------ | --------------- |
-|PRODUCT BACKLOG|“Eu como gerente quero alinhar minha equipe na aplicação do Scrum".| **1** | #1 | 100 | 05h | **Concluído**✅  | 9/24/2023 | 
-|WIREFRAME| “Eu como Scrum Master quero facilitar e orientar a equipe no método Scrum".| **1** | #1 | 95 | 04h | **Concluído**✅| 9/24/2023 |
-|WIREFRAME| “Eu como Scrum Master quero garantir reuniões rápidas e objetivas”.| **1** | #1 | 90 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME|“Eu como Product Owner quero passar a visão do produto para a equipe de desenvolvimento”.| **1** | #1 | 85 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME| “Eu como Product Owner quero praticar a priorização de tarefas”.| **1** | #1 | 80 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME|“Eu como Procuct Owner quero saber cobrar resultados de forma efetiva/assertiva”.| **1** |#1 | 75 | 04h | **Concluído**✅ | 9/24/2023|
-|WIREFRAME|“Eu como Scrum Team quero avaliar de forma eficiente quais as tecnologias necessárias para a execução de um projeto”. | **1** | #1 | 70 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME|“Eu como Scrum Team quero avaliar de forma eficiente a quantidade de colaboradores necessários para a execução de um projeto dado um prazo estimado de realização”.  | **1** | #1 | 65 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME|“Eu como Scrum Team quero promover a auto-organização e soft skills, para integrar comunicação, proatividade, colaboração com objetivo de potencializar a entrega nas Sprints”.  | **1** | #1 | 60 | 04h | **Concluído**✅ | 9/24/2023 |
-|PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente. | **1** | #2 | 100 | 05h |**Concluído**✅ | 9/24/2023 |
-|SITE INICIAL|“Eu como desenvolvedor quero alinhar minha equipe na aplicação do Scrum". | **2** | #3 | 100 | 04h | **Em andamento** | 15/10/2023 |
+|PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| **1** | #1 | 100 | 05h | **Concluído**✅  | 9/24/2023 | 
+|WIREFRAME| “Eu como cliente quero, na página wireframe, encontrar aplicações do Scrum para alinhar minha equipe para que seja auto-organizável, comunicativa, colaborativa e adaptável". | **1** | #2 | 95 | 04h | **Concluído**✅| 9/24/2023 |
+|WIREFRAME| "Eu como cliente quero, encontrar na página wireframe, exemplos de artefatos do Scrum para minha equipe utilizá-los para comunicação acertiva, adaptabilidade e melhor visualização do andamento dos projetos". | **1** | #2 | 90 | 04h | **Concluído**✅ | 9/24/2023 |
+|WIREFRAME| “Eu como cliente quero, acessar na página wireframe, exemplos para promover à minha equipe o desenvolvimento de soft skills, para integrar proatividade, colaboração e autonomia com objetivo de potencializar a entrega nas Sprints”. | **1** | #2 | 85 | 04h | **Concluído**✅ | 9/24/2023 |
+|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Scrum Master". | **1** | #2 | 80 | 04h | **Concluído**✅ | 9/24/2023 |
+|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um equipe Scrum". | **1** |#2 | 75 | 04h | **Concluído**✅ | 9/24/2023|
+|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Product Owner". | **1** | #2 | 70 | 04h | **Concluído**✅ | 9/24/2023 |
+|WIREFRAME| "Eu como desenvolvedor quero, criar uma página wireframe de acordo com as necessidades do cliete para melhor aplicação do método Scrum em sua empresa". | **1** | #2 | 65 | 04h | **Concluído**✅ | 9/24/2023 |
+|SITE INICIAL - html |“Eu como desenvolvedor quero alinhar minha equipe na aplicação do Scrum". | **2** | #3 | 100 | 04h | **Em andamento** | 15/10/2023 |
 |SITE INICIAL|“Eu como Scrum Master quero facilitar e orientar a equipe no método Scrum". | **2**  | #3 | 95 | 04h | **Em andamento** | 15/10/2023 |
 |SITE INICIAL|“Eu como Scrum Master quero garantir reuniões rápidas e objetivas”. | **2**  | #3 | 90 | 04h | **Em andamento** |15/10/2023 |
 |SITE INICIAL|“Eu como Product Owner quero passar a visão do produto para a equipe de desenvolvimento”.| **2**  | #3 | 85 | 04h |  **Em andamento** | 15/10/2023 |
@@ -62,15 +60,16 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 # Product Backlog
 | Item | Prioridade | ID | Descrição | Sprint|
 | ---- | ---------- | -- | --------- | ----- |
-| Wireframe | 100 |#1| Protótipo WEB contendo uma prévia de todas as páginas do sistema. | **1** |
-| Backlog | 100 |#2| Calendário de entregas de acordo com os desejos e requisitos do cliente. | **1** |
-| Criação do Site Inicial - html | 95 |#3|Site inicial em HTML leal à proposta do wireframe, de forma suscinta. | **2**|
-|Criação do Site Inicial - css | 90 |#4| Estilização da página com CSS e padronização das páginas, leal à proposta do wireframe, de forma suscinta. | **2**|
-| Criação do Site Inicial - Flask | 100 |#5| --------- | **3** |
-|Criação do formulário | 90 |#6|Formulário para avaliações parciais e finais. | **3** |
-|Polimento | 80 |#7| Refinamento de código e adição de recursos responsivos. | **3** |
-|Teste | 100 |#8| Teste do produto com intuito de encontrar e corrigir erros e bugs. | **4** |
-|README |80|9| Documentação do projeto. | **4** |
+| Backlog | 100 |#1| Calendário de entregas de acordo com os desejos e requisitos do cliente. | **1** |
+| Wireframe | 95 |#2| Protótipo WEB contendo uma prévia de todas as páginas do sistema. | **1** |
+| Criação do Site Inicial - html | 90 |#3|Site inicial em HTML leal à proposta do wireframe, de forma suscinta. | **2**|
+|Criação do Site Inicial - css | 85 |#4| Estilização da página com CSS e padronização das páginas, leal à proposta do wireframe. | **2**|
+| Criação do Site Inicial - Flask | 80 |#5| Linkar as páginas do site com Flask. | **2** |
+| Aplicações práticas do Scrum | 75 |#6| "Eu como desenvolvedor quero, adicionar ao site exemplos práticos para que o cliente consiga aplicar para seus funcionários, de forma padronizada, o métodos Scrum". | **3** |
+| Criação do formulário | 70 |#7|Formulário para avaliações parciais e finais. | **3** |
+| Site - Flask (Polimento) | 65 |#8| "Eu como desenvolvedor quero, com Flask, padronizar as páginas do site e deixá-lo responsivo". | **3** |
+| Teste | 60 |#9| Teste do produto com intuito de encontrar e corrigir erros e bugs. | **4** |
+| README | 55 |#10| Documentação do projeto. | **4** |
 
 
 
