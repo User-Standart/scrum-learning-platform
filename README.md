@@ -43,7 +43,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 |WIREFRAME| "Eu como cliente quero, encontrar na página wireframe, exemplos de artefatos do Scrum para minha equipe utilizá-los para comunicação acertiva, adaptabilidade e melhor visualização do andamento dos projetos". | **1** | #2 | 90 | 04h | **Concluído**✅ | 9/24/2023 |
 |WIREFRAME| “Eu como cliente quero, acessar na página wireframe, exemplos para promover à minha equipe o desenvolvimento de soft skills, para integrar proatividade, colaboração e autonomia com objetivo de potencializar a entrega nas Sprints”. | **1** | #2 | 85 | 04h | **Concluído**✅ | 9/24/2023 |
 |WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Scrum Master". | **1** | #2 | 80 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um equipe Scrum". | **1** |#2 | 75 | 04h | **Concluído**✅ | 9/24/2023|
+|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de uma equipe Scrum". | **1** |#2 | 75 | 04h | **Concluído**✅ | 9/24/2023|
 |WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Product Owner". | **1** | #2 | 70 | 04h | **Concluído**✅ | 9/24/2023 |
 |WIREFRAME| "Eu como desenvolvedor quero, criar uma página wireframe de acordo com as necessidades do cliete para melhor aplicação do método Scrum em sua empresa". | **1** | #2 | 65 | 04h | **Concluído**✅ | 9/24/2023 |
 |SITE INICIAL - html |“Eu como desenvolvedor quero alinhar minha equipe na aplicação do Scrum". | **2** | #3 | 100 | 04h | **Em andamento** | 15/10/2023 |
