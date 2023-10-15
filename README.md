@@ -82,7 +82,11 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 
 # Vídeo de demonstração - MVP - Sprint 1:
 
-https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/f31bc1ae-d0f1-4f75-b967-f1476b8d8e42
+
+
+https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/80f908cf-1d6b-48a7-9867-39217e96c9c9
+
+
 
 
 # Vídeo de demonstração – MVP – Sprint 2:
