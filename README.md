@@ -3,13 +3,13 @@
       <img src="Dados/Capa-API.png" alt="Capa-API">
 
 <p align="center">
-    <a href="#objetivo"> Objetivo do Projeto </a> | 
-    <a href="#visao"> Visão do Sistema </a> |
+    <a href="#objetivo-do-projeto"> Objetivo do Projeto </a> | 
+    <a href="#visao-do-sistema"> Visão do Sistema </a> |
     <a href="#metodologia"> Metodologia </a> |  
-    <a href="#mvp"> MVP </a> | 
+    <a href="#mvp"> MVP </a> |
     <a href="#sprint-backlog"> Sprint Backlog </a> | 
     <a href="#product-backlog"> Product Backlog </a> | 
-    <a href="#prototipo"> Como utilizar o Protótipo ? </a> | 
+    <a href="#como-utilizar-o-prototipo"> Como utilizar o Protótipo </a> | 
     <a href="#colaboradores"> Colaboradores </a> | 
 </p>
 </p>
@@ -78,7 +78,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 
 
 
-# Como utilizar o Protótipo ❔
+# Como utilizar o Protótipo 
 
 # Vídeo de demonstração - MVP - Sprint 1:
 
