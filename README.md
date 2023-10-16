@@ -11,7 +11,7 @@
     <a href="#product-backlog"> Product Backlog </a> | 
     <a href="#como-utilizar-o-prototipo"> Como utilizar o Protótipo </a> | 
     <a href="#colaboradores"> Colaboradores </a> | 
-    <a href="#burndown-grafico"> BurnDown Gráfico </a> |
+    <a href="#burndown-grafico"> Burndown Gráfico </a> |
 
 </p>
 </p>
@@ -37,7 +37,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 1. WireFrame: **(**[Protótipo Navegável](https://encurtador.com.br/mnopM)**): Concluído**✅
 
 
-# BurnDown Gráfico 
+# Burndown Gráfico 
 
 ![BurnDown Gráfico](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/41259471-0ecc-4953-ab36-cb26f4b2b1c2)
 
