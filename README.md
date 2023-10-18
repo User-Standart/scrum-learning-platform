@@ -37,48 +37,19 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 1. WireFrame: **(**[Protótipo Navegável](https://encurtador.com.br/mnopM)**): Concluído**✅
 
 
-# Burndown Gráfico 
-
-![BurnDown Gráfico](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/41259471-0ecc-4953-ab36-cb26f4b2b1c2)
-
-
-
-# Sprint Backlog 
-| Item | Definição | Sprint | ID | Prioridade | Estimativa de Esforço | Status | Data de Entrega |
-| ---- | --------- | ------ | ---| ---------- | --------------------- | ------ | --------------- |
-|PRODUCT BACKLOG|Calendário de entregas de acordo com os desejos e requisitos do cliente.| **1** | #1 | 100 | 05h | **Concluído**✅  | 9/24/2023 | 
-|WIREFRAME| “Eu como cliente quero, na página wireframe, encontrar aplicações do Scrum para alinhar minha equipe para que seja auto-organizável, comunicativa, colaborativa e adaptável". | **1** | #2 | 95 | 04h | **Concluído**✅| 9/24/2023 |
-|WIREFRAME| "Eu como cliente quero, encontrar na página wireframe, exemplos de artefatos do Scrum para minha equipe utilizá-los para comunicação acertiva, adaptabilidade e melhor visualização do andamento dos projetos". | **1** | #2 | 90 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME| “Eu como cliente quero, acessar na página wireframe, exemplos para promover à minha equipe o desenvolvimento de soft skills, para integrar proatividade, colaboração e autonomia com objetivo de potencializar a entrega nas Sprints”. | **1** | #2 | 85 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Scrum Master". | **1** | #2 | 80 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de uma equipe Scrum". | **1** |#2 | 75 | 04h | **Concluído**✅ | 9/24/2023|
-|WIREFRAME| "Eu como cliente quero, acessar na página wireframe, informações sobre as funções de um Product Owner". | **1** | #2 | 70 | 04h | **Concluído**✅ | 9/24/2023 |
-|WIREFRAME| "Eu como desenvolvedor quero, criar uma página wireframe de acordo com as necessidades do cliete para melhor aplicação do método Scrum em sua empresa". | **1** | #2 | 65 | 04h | **Concluído**✅ | 9/24/2023 |
-|SITE INICIAL - html |“Eu como desenvolvedor quero alinhar minha equipe na aplicação do Scrum". | **2** | #3 | 60 | 04h | **Concluído**✅ | 15/10/2023 |
-|SITE INICIAL - html | "Eu como cliente quero, no site inicial, ter acesso ao conteúdo sobre o método ágil Scrum para aplicá-lo de forma padronizada com a minha equipe". | **2**  | #3 | 55 | 04h | **Concluído**✅ | 15/10/2023 |
-|SITE INICIAL - html| "Eu como desenvolvedor quero, com html, criar as páginas do site de acordo com o prótotipo aprovado pelo cliente". | **2**  | #3 | 50 | 04h | **Concluído**✅ |15/10/2023 |
-|SITE INICIAL - css| "Eu como desenvolvedor quero, com css, estilizar as páginas do site para melhorar o desing". | **2**  | #4 | 45 | 04h |  **Concluído**✅ | 15/10/2023 |
-|SITE INICIAL - Flask | "Eu como desenvolvedor quero, com Flask, linkar as páginas do site para melhorar a responsividade do programa e padronizar cabeçalho e rodapé". | **2**  | #5 | 40 | 04h | **Concluído**✅ | 15/10/2023 |
-
-
-
 # Product Backlog
 | Item | Prioridade | ID | Descrição | Sprint|
 | ---- | ---------- | -- | --------- | ----- |
 | Backlog | 100 |#1| Calendário de entregas de acordo com os desejos e requisitos do cliente. | **1** |
-| Wireframe | 95 |#2| Protótipo WEB contendo uma prévia de todas as páginas do sistema. | **1** |
-| Criação do Site Inicial - html | 90 |#3|Site inicial em HTML leal à proposta do wireframe, de forma suscinta. | **2**|
-|Criação do Site Inicial - css | 85 |#4| Estilização da página com CSS e padronização das páginas, leal à proposta do wireframe. | **2**|
-| Criação do Site Inicial - Flask | 80 |#5| Linkar as páginas do site com Flask. | **2** |
-| Aplicações práticas do Scrum | 75 |#6| "Eu como desenvolvedor quero, adicionar ao site exemplos práticos para que o cliente consiga aplicar para seus funcionários, de forma padronizada, o métodos Scrum". | **3** |
-| Criação do formulário | 70 |#7|Formulário para avaliações parciais e finais. | **3** |
-| Site - Flask (Polimento) | 65 |#8| "Eu como desenvolvedor quero, com Flask, padronizar as páginas do site e deixá-lo responsivo". | **3** |
+| Wireframe | 95 |#2| “Eu como cliente quero, na página wireframe, encontrar aplicações do Scrum para alinhar minha equipe para que seja auto-organizável, comunicativa, colaborativa e adaptável". | **1** |
+| Criação do Site Inicial - html | 90 |#3| "Eu como cliente quero, no site inicial, ter acesso ao conteúdo sobre o método ágil Scrum para aplicá-lo de forma padronizada com a minha equipe". | **2**|
+|Criação do Site Inicial - css | 85 |#4| "Eu como desenvolvedor quero, com css, estilizar as páginas do site para melhorar o desing". | **2**|
+| Criação do Site Inicial - Flask | 80 |#5| "Eu como desenvolvedor quero, com Flask, linkar as páginas do site para melhorar a responsividade do programa e padronizar cabeçalho e rodapé". | **2** |
+| Aplicações práticas do Scrum | 75 |#6| "Eu como cliente quero, encontrar no site, exemplos práticos para que o método seja aplicado para meus funcionários de forma padronizada". | **3** |
+| Criação do formulário | 70 |#7| "Eu como cliente quero, acessar no site, um formulário para avaliações parciais e finais do método Scrum para melhorar o auto-gerenciamento da equipe e melhorar seus pontos fracos". | **3** |
+| Site - Bootstrap | 65 |#8| "Eu como desenvolvedor quero, com Bootstrap, customizar a página e deixá-la mais responsiva". | **3** |
 | Teste | 60 |#9| Teste do produto com intuito de encontrar e corrigir erros e bugs. | **4** |
 | README | 55 |#10| Documentação do projeto. | **4** |
-
-
-
-
 
 
 
