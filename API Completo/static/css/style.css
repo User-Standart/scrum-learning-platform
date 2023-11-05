@@ -1,0 +1,175 @@
+/* centraliza a página em um container */
+.alinha{
+    max-width: 1400px;
+    margin: 0 auto;
+    /* border: red solid 2px; */
+   
+    
+}
+
+/* Barra vermelha em cima do texto */
+.barra{
+  width: 980px;
+  height: 39px;
+  background-color: #9C0707;
+  text-align: center;
+  border-radius: 15px;
+  font-family: 'Inter', sans-serif;
+  color: #f1f1f1;
+  font-size: 30px;
+}
+
+
+/* container do cabeçalho */
+.container--header{
+    /* diplat grid ao invés de flexbox */
+    display: grid;
+    /* largura das colunas */
+    grid-template-columns: 270px 180px 100px 100px;
+    /* cor de fundo */
+    background-color: #9C0707;
+    /* cor da borda */
+    /* border: 2px black solid;  */
+    /* distancia entre cada coluna */
+    gap: 160px;
+    align-items: flex-end;
+}
+
+
+/* estilizando o logo */
+.logo {
+    padding-top: 25px;
+    font-family: carattere;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height:85px;
+    /* -webkit-text-stroke: 2px black; */
+    color: #FDFDFB;
+    
+}
+
+
+/* estilizando os links */
+a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+}
+
+
+/* Menu-dropdown */
+
+/* estilização do botão */
+.dropbtn {
+    
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+    
+  }
+  
+  /* classe do botão */
+  .dropdown {
+    
+    position:relative;
+    /* display: inline-block; */
+  }
+  
+  /* Lista do menu */
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  /* Links dentro do menu dropdown */
+  .dropdown-content a {
+    color: black;
+    padding: 12px 0px;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+  }
+  
+  /* Muda a cor dos links quando passa o mouse em cima  */
+  .dropdown-content a:hover {background-color: #f1f1f1}
+  
+  /* mostra o menu quando passa o mouse  */
+  .dropdown:hover .dropdown-content {
+    display: block;
+  }
+  
+
+  /* corpo da página */
+
+  /* container das imagem na home */
+.container--imghome{
+    padding-top: 20px;
+    display: grid;
+    grid-template-columns: 1400px;
+    place-items: center;
+    /* border: #07369c solid 2px; */
+    gap: 30px;
+    
+}
+
+/* container do texto na home */
+.container--txthome{
+    display:grid ;
+    margin: 0 auto;
+    /* grid-template-columns:1400px ; */
+    text-align: left;
+    /* border: peru solid 2px; */
+    max-width: 60%;
+    place-items: center;
+    
+}
+
+/* img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-self: center;
+} */
+
+
+.rodape{
+    
+    width: 100%;
+    height: 40px;
+    background-color: #9C0707;
+    justify-self: flex-start;
+    
+    
+    
+}
+
+.txtatividade{
+  display: grid;
+  margin: 0 auto;
+  text-align: justify;
+  place-items: center;
+  /* border: #079c57 solid 2px; */
+  max-width: 80%;
+  font-size: 20px;
+
+}
+
+/* container do Formulario*/
+.container--form{
+  display:flex ;
+  margin: 0 auto;
+  /* grid-template-columns:1400px ; */
+  text-align: left;
+  /* border: peru solid 2px; */
+  max-width: 60%;
+  flex-direction: column;
+  
+}
+
+

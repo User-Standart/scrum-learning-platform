@@ -1,0 +1,119 @@
+.principal{
+    max-width: 1400px;
+    margin: 0 auto;
+}
+
+.cabeçalho{
+    display: grid;
+    background-color: #9C0707;
+    grid-template-columns: 270px 180px 100px 100px;
+    gap: 160px;
+    align-items: flex-end;
+
+}
+
+.Scrum{
+    padding-top: 25px;
+    font-family: carattere;
+    font-size: normal;
+    font-weight: 400;
+    font-size: 120px;
+    line-height: 85px;
+    color: #FDFDFB;
+}
+
+.menu{
+    position: relative;
+}
+
+.drop{
+    color: white;
+    font-size: 25px;
+    cursor: pointer;
+
+}
+
+.down{
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 100%;
+    z-index: 1;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
+
+.down a{
+    color: black;
+    padding: 12px 0px;
+    text-decoration: none;
+    display: block;
+    font-size: 20px;
+    text-align: center;
+}
+
+.menu:hover .down{
+    display: block;
+}
+
+.down a:hover{
+    background-color: #f1f1f1;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    font-size: 25px;
+}
+
+
+.rodape{
+    height: 40px;
+    width: 100%;
+    background-color: #9C0707;
+}
+
+.imagem_backlog{
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.imagem_2{
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.imagem_3{
+    display: grid;
+    justify-content: center;
+    padding-top: 20px;
+}
+
+.img_rodapé{
+    display: grid; 
+    justify-content: center;
+}
+
+.Texto_1{
+    display: grid;
+    max-width: 60%;
+    margin: 0 auto;
+    padding-top: 20px;
+    
+}
+
+.Texto_2{
+    display: grid;
+    max-width: 60%;
+    margin: 0 auto;
+    padding-top: 20px;
+    
+}
+
+.Texto_3{
+    display: grid;
+    max-width: 60%;
+    margin: 0 auto;
+    padding-top: 20px;    
+}
