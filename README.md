@@ -69,10 +69,13 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/80f908cf-1d
 https://github.com/Marianatebecherani/api-2sem-2023/assets/143021491/5238463d-8f71-49ba-8a52-c588f8c2dca6
 
 
-#Vídeo de demonstração - MVP - Sprint 3:
+# Vídeo de demonstração - MVP - Sprint 3:
 
 
-https://github.com/Marianatebecherani/api-2sem-2023/blob/Final/Dados/sprint3.mkv
+https://github.com/Marianatebecherani/api-2sem-2023/assets/144804717/ca9e12ad-592b-48c8-9dd6-b04e4d6d1d1e
+
+
+
 
 # Colaboradores:
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/caio-osorio-a67224200/)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CaioOsorio) <br>
