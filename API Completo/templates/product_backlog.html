@@ -1,42 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Carattere&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="/static/css/style_product_backlog.css">
-    <title>Product Backlog</title>
-</head>
-<body>
-    <!-- Cabeçalho -->
-<div class="principal">
-    <header class="cabeçalho">
-        <a href="/" class="Scrum">Scrum</a>
-        
-        <a href="/estruturatime">Estrutura do time</a>
+{% extends "base.html" %}
 
-       <div class="menu"> 
-        <div class="drop">Artefatos</div>
-            <div class="down">
-                <a href="/product_backlog">Product Backlog</a>
-                <a href="/process_backlog">Process Backlog</a>
-                <a href="/sprintplanning">Sprint Planning</a>
-                <a href="/dailyscrum">Daily Scrum</a>
-                <a href="/planningpoker">Planning Poker</a>
-                <a href="/sprint_retrospective">Sprint Retrospective</a>
-                <a href="/burndownchart">Burndown Chart</a>
-                <a href="/formulario">Formulário Pacer</a>
-            </div>
-        </div>     
-        <a href="/atividadepratica">Atividade</a>
-    </header>
+
+
+
+{% block content %}
+<div class="container" >
     
-    <div class="imagem_backlog">
-    <img src="../static/img/Backlog.png" alt="backlog">
-    </div>
-
-    <div class="Texto_1">
-        O Product Backlog é uma função do Product Owner, em que ele, baseado nas informações passadas pelo cliente, divide quais tarefas devem ser feitas em determinado projeto em ordem de prioridade, além de um plano para que o projeto seja entregue a tempo. É importante que o backlog sempre esteja de acordo com os objetivos do projeto, sendo adaptável a mudanças necessárias, seja mudando a prioridade ou adicionando novas taferas. Para aplicá-lo são necessários apenas 2 passos simples:
+    <div class="barra">O que é product backlog?</div>
+<br>
+<br>
+    <div class="container--txthome">
+    <p>O Product Backlog é uma função do Product Owner, em que ele, baseado nas informações passadas pelo cliente, divide quais tarefas devem ser feitas em determinado projeto em ordem de prioridade, além de um plano para que o projeto seja entregue a tempo. É importante que o backlog sempre esteja de acordo com os objetivos do projeto, sendo adaptável a mudanças necessárias, seja mudando a prioridade ou adicionando novas taferas. Para aplicá-lo são necessários apenas 2 passos simples:
 
         <ul>
            <li> Reuna informações e o que precisa ser feito ao conversar com o cliente (PO).</li>
@@ -44,26 +18,21 @@
         </ul>
         
 
-        Após isso é necessario apenas delegar essas tarefas para o seu time e a sprint estará em movimento.
+        Após isso é necessario apenas delegar essas tarefas para o seu time e a sprint estará em movimento.</p>
     </div>
 
-    <div class="imagem_2">
-        <img src="../static/img/Modelo-Titulo-Principal-Vermelho (1).png" alt="imagem_2">
-    </div>
-
-    <div class="Texto_2">
-        <ol>
+    <br><br>
+    <div class="barra">Mantendo o backlog eficiente:</div><br><br>
+    <div class="container--txthome">
+    <p><ol>
         <li> Mantenha o backlog atualizado por meio da comunicação com o seu time.</li>
         <li> Comunicação constante e transparente </li>
         <li> Se adapte de acordo com os problemas vistos na sprint review. </li>
-        </ol>
+        </ol></p>
     </div>
-
-    <div class="imagem_3">
-        <img src="../static/img/Modelo-Titulo-Principal-Vermelho (2).png" alt="imagem_3">
-    </div>
-
-    <div class="Texto_3">
+    <br><br>
+    <div class="barra">Exemplo prático:</div><br><br>
+    <div class="container--txthome">
         <ol>
             <li>Falar com o Cliente</li>
             <li>Determinar o que ele quer que seja feito e o produto a ser entregue.</li>
@@ -75,18 +44,6 @@
         </ol>
     </div>
 
-    <br><br>
-    
-    <div class="img_rodapé">
-        <img src="../static/img/End-Line-Text.png" alt="img_rodapé">
-    </div>
 
-    
-    <br><br>
-
-    <div class="rodape">
-
-    </div>
 </div>
-</body>
-</html>
+{% endblock %}

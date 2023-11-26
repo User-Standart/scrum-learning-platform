@@ -1,182 +1,46 @@
-<!DOCTYPE html>
-<html lang="pt-BR">
+{% extends "base.html" %}
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css2?family=Carattere&display=swap" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300&display=swap" rel="stylesheet">
-    <link href="../static/css/style.css" rel="stylesheet" />
-    <!-- o arquivo style-edt é um rascunho -->
-    <link href="../static/css/style-edt.css" rel="stylesheet" />
-    <title>O que é Process Backlog?</title>
-</head>
 
-<body>
 
-    <div class="alinha">
 
-        <!--Cabeçalho-->
-        <header class="container--header">
-            <!--LOGO-->
-            <div>
-                <a href="/">
-                    <div class="logo"> Scrum</div>
-                </a>
-            </div>
-
-            <!--LINKS-->
-            <div>
-                <a href="/estruturatime">Estrutura do time</a>
-            </div>
-
-            <!--MENU DROPDOWN-->
-            <div class="dropdown">
-                <div class="dropbtn">Artefatos</div>
-                <div class="dropdown-content">
-                    <a href="/product_backlog">Product Backlog</a>
-                    <a href="/process_backlog">Process Backlog</a>
-                    <a href="/sprintplanning">Sprint Planning</a>
-                    <a href="/dailyscrum">Daily Scrum</a>
-                    <a href="/planningpoker">Planning Poker</a>
-                    <a href="/sprint_retrospective">Sprint Retrospective</a>
-                    <a href="/burndownchart">Burndown Chart</a>
-                    <a href="/formulario">Formulário Pacer</a>
-                </div>
-            </div>
-
-            <a href="/atividadepratica">Atividade</a>
-
-        </header>
-        
-        <main>
-
-            <div class="barra">O que é Process Backlog?</div>
-
-            <article class="container-txt-process-bl-1">
-
-                <p class="content-l1">
-                    O Process Backlog é extremamente similar ao Product Backlog, sua única diferença é que, ao invés de
-                    descrever as funcionalidades do produto,ele descreve os meios que o time usa para fazer essas
-                    funcionalidades se tornarem realidade. Seja aprendendo algo que seja necessário para tornar o projeto
-                    realidade, aplicativos e metódos utilizados e quem estará aplicando essas funções. O processo de
-                    montagem dele é o mesmo também, baseado na comunicação entre PO e Scrum Team, para que seja apurado o
-                    que é necessário ser feito e estudado.
-                </p>
-
-            </article>
-
-            <div class="barra">Práticas para manter o backlog eficiente</div>
-
-            
-
-                <ol class="content-l1">
-                    <li>
-                        Mantenha o backlog atualizado por meio da comunicação com o seu time;
-                    </li>
-                    <li>
-                        Comunicação constante e transparente;
-                    </li>
-                    <li>
-                        Se adadpte de acordo com os problemas vistos na sprint review.
-                    </li>
-                </ol>
-
-            </article>
-
-            <div class="barra">Exemplo Prático</div>
-
-        
-            <div class="container--txthome">
-                <ol class="content-l1">
-                    <li>
-                        Identificar o contexto:
-                        <ul>
-                            <li>entenda o contexto em que você está criando o backlog. Isso pode ser um projeto, um
-                                produto de software, uma equipe de suporte, ou qualquer outro processo que envolva
-                                tarefas a serem realizadas.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Reúna requisitos e tarefas:
-                        <ul>
-                            <li>Identifique todas as tarefas, requisitos, funcionalidades ou itens de trabalho que
-                                precisam ser incluídosno bacllog. Isso pode envolver a colaboração com as partes
-                                interessadas relevantes.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Descreva cada item:
-                        <ul>
-                            <li>Cada item do backlog deve ser claramente descrito. Isso geralmente inclui um título
-                                conciso e uma descrição mais detalhada.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Estabeleça prioridades:
-                        <ul>
-                            <li>Defina a prioridade de cada item do backlog. Você pode usar critérios como valor para o
-                                cliente, urgência, impacto no projeto ou qualquer outro fator relevante. É comum
-                                classificar os itens como "Alta", "Média" ou "Baixa" prioridade.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Estime esforços:
-                        <ul>
-                            <li>Forneça uma estimativa do esforço necessário para concluir cada item do backlog.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Atribua responsabilidades:
-                        <ul>
-                            <li>Atribua responsabilidades para cada item. Atribuir tarefas a membros da equipe.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Organize o Backlog:
-                        <ul>
-                            <li>Organize os itens do backlog de acordo com a prioridade. Itens de alta prioridade
-                                geralmente aparecem no topo do backlog, enquanto itens de baixa prioridade ficam na
-                                parte inferior.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Revise e atualize regularmente:
-                        <ul>
-                            <li>O backlog não é uma lista estática; ele deve ser revisado e atualizado regularmente à
-                                medida que novos requisitos surgem e as prioridades mudam. Isso é particularmente
-                                importante em ambientes ágeis.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Comunique o Backlog:
-                        <ul>
-                            <li>Compartilhe o backlog com as partes interessadas relevantes para garantir que todos
-                                estejam cientes das prioridades e do progresso.</li><br>
-                        </ul>
-                    </li>
-                    <li>
-                        Use uma ferramenta de gestão:
-                        <ul>
-                            <li>É útil usar uma ferramenta de gestão de backlog, como Jira, Trello, ou uma planilha,
-                                para manter o backlog organizado e acessível a todos da equipe.</li><br>
-                        </ul>
-                    </li>
-                </ol>
-
-            </div>
-
-            <figure class="container--imghome">
-                <img src="../static/img/End-Line-Text.png">
-            </figure>
-
-        </main>
-
-        <!--rodapé-->
-        <footer></footer>
-
+{% block content %}
+<div class="container" >
+    
+    <div class="barra">O que é Process Backlog?</div>
+<br>
+<br>
+    <div class="container--txthome">
+    <p>O Process Backlog é extremamente similar ao Product Backlog, sua única diferença é que, ao invés de
+        descrever as funcionalidades do produto,ele descreve os meios que o time usa para fazer essas
+        funcionalidades se tornarem realidade. Seja aprendendo algo que seja necessário para tornar o projeto
+        realidade, aplicativos e metódos utilizados e quem estará aplicando essas funções. O processo de
+        montagem dele é o mesmo também, baseado na comunicação entre PO e Scrum Team, para que seja apurado o
+        que é necessário ser feito e estudado.</p>
     </div>
 
-</body>
+    <br><br>
+    <div class="barra">Mantendo o backlog eficiente:</div><br><br>
+    <div class="container--txthome">
+    <p><ol>
+        <li> Mantenha o backlog atualizado por meio da comunicação com o seu time.</li>
+        <li> Comunicação constante e transparente </li>
+        <li> Se adapte de acordo com os problemas vistos na sprint review. </li>
+        </ol></p>
+    </div>
+    <br><br>
+    <div class="barra">Exemplo prático:</div><br><br>
+    <div class="container--txthome">
+        <ol>
+            <li>Falar com o Cliente</li>
+            <li>Determinar o que ele quer que seja feito e o produto a ser entregue.</li>
+            <li>Criar uma lista de funcionalidades a serem implementadas.</li>
+            <li>Organizar esta lista em ordem de prioridade.</li>
+            <li>Manter comunicação constante com o cliente.</li>
+            <li>Confirmar se o que foi feito está correto e fazendo mudanças caso necessário.</li>
+            <li>Com base nessas tarefas serão formulados os sprint backlogs.</li>
+        </ol>
+    </div>
 
-</html>
+
+</div>
+{% endblock %}
