@@ -10,9 +10,7 @@
     <a href="#sprint-backlog"> Sprint Backlog </a> | 
     <a href="#product-backlog"> Product Backlog </a> | 
     <a href="#como-utilizar-o-prototipo"> Como utilizar o Protótipo </a> | 
-    <a href="#colaboradores"> Colaboradores </a> | 
-    <a href="#burndown-grafico"> Burndown Gráfico </a> |
-
+    <a href="#colaboradores"> Colaboradores </a> 
 </p>
 </p>
 
