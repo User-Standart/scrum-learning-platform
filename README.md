@@ -32,7 +32,9 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 
 # 🏆MVP
 
-![mvp](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/b389df42-4404-4f09-b09d-ce0adb231114)
+
+![MVP](https://github.com/Marianatebecherani/api-2sem-2023/assets/143021491/662d5b63-8481-437c-a37a-8de7aa76f65a)
+
 
 1. WireFrame: **(**[Protótipo Navegável](https://encurtador.com.br/mnopM)**): Concluído**✅
 
