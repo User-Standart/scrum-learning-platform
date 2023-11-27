@@ -58,10 +58,7 @@ A metodologia utilizada para a criação do protótipo responsivo foi o **Figma*
 # Vídeo de demonstração - MVP - Sprint 1:
 
 
-
 https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/80f908cf-1d6b-48a7-9867-39217e96c9c9
-
-
 
 
 # Vídeo de demonstração – MVP – Sprint 2:
@@ -75,6 +72,10 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/143021491/5238463d-8f
 https://github.com/Marianatebecherani/api-2sem-2023/assets/144804717/ca9e12ad-592b-48c8-9dd6-b04e4d6d1d1e
 
 
+# Vídeo de demonstração - MVP - Sprint 4:
+
+
+https://github.com/Marianatebecherani/api-2sem-2023/assets/143021491/eb4f7020-6b8b-48e0-bd88-751ca1ef16af
 
 
 # Colaboradores:
@@ -87,11 +88,8 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/144804717/ca9e12ad-59
 <br>
 
 
-
-
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/diegocastro91)[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/Diegocastro5) <br>
 ![Diego Castro](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/6f185de6-a6d4-48a6-b49c-3740fe013f1f)
-
 
 
 <a href="https://www.linkedin.com/in/f%C3%A1bio-hiroshi-5393a51a0/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://github.com/FabioHiros"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
@@ -102,14 +100,11 @@ https://github.com/Marianatebecherani/api-2sem-2023/assets/144804717/ca9e12ad-59
 ![henrique](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/671adbe3-8a8b-404d-a9bc-5fd9f8208271)
 
 
-
 <a href="https://www.linkedin.com/in/jonielrodrigues"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://github.com/jonieloliveira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
 ![joniel](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/1fa074f2-927a-407e-9ae3-04b0fbb3c262)
 
 
 
-<a href="https://www.linkedin.com/in/victorfreis135"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a><a href="https://github.com/VictorReis135"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> <br>
-![victor](https://github.com/Marianatebecherani/api-2sem-2023/assets/103541614/2161bac1-d04a-4903-8859-443d53f0cb90)
 
 
 
