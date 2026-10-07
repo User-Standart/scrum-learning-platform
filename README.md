@@ -75,7 +75,7 @@ For a team that wants to learn and improve its knowledge of agile methodologies 
 
 
 # Contributors:
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/caio-osorio-a67224200/)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/CaioOsorio) <br>
+ [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/caiovosorio/)|[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/User-Standart) <br>
 ![Gif - Caio](docs/images/c718d4aa.gif)
 
 
